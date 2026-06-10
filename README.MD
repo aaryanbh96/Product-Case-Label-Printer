@@ -317,13 +317,3 @@ Manually print PDF from Labels folder
 _Document Version 1.0 | Last Updated: October 28,2025_
 
 ## Screenshots
-https://drive.google.com/open?id=1HabPw0PCrSAAv9AYVQ9hOS8stXrZrtwZ&usp=drive_copy
-https://drive.google.com/open?id=1uYvbgB7jlLRrKlrSNs4PpLELa2BIozvO&usp=drive_copy
-https://drive.google.com/open?id=1Ty8YmfbfWuqUM0TYQ5NjqqszszPGBXvg&usp=drive_copy
-https://drive.google.com/open?id=1sa81tyofcteiCO5jD5ATtNjZrbvPPhUU&usp=drive_copy
-https://drive.google.com/open?id=1btmgf6YdV8WNLojONJHJu4Kka0lIBikK&usp=drive_copy
-https://drive.google.com/open?id=1-g_Heq2VU6iroNSkOmNtg3SFq_YHfkHs&usp=drive_copy
-https://drive.google.com/open?id=1ZIqMuI68NwvQ0Fa8YOO8PokMsF4LELFt&usp=drive_copy
-https://drive.google.com/open?id=1e9-JNco-OCKXVm58E-vVRiZeU_36oQpy&usp=drive_copy
-
-
