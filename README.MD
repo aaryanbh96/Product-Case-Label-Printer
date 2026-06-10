@@ -310,6 +310,20 @@ Manually print PDF from Labels folder
 
 **Software Version:** 1.0**Build Date:** October 28 2025**Platform:** Windows 7/10/11 (64-bit)**Executable Size:** ~85-120 MB (includes all dependencies)**Config Storage:** User's home directory (%USERPROFILE%)**Label Printer Compatibility:** Any Windows-compatible printer (tested withBrother label printers)
 
+## Screenshots
+
+![Screenshot](Screenshots/Screenshot%202026-03-25%20184617.png)
+
+![Screenshot](Screenshots/Screenshot%202026-03-25%20184731.png)
+
+![Screenshot](Screenshots/Screenshot%202026-03-25%20184752.png)
+
+![Screenshot](Screenshots/Screenshot%202026-03-25%20184835.png)
+
+![Screenshot](Screenshots/Screenshot%202026-03-25%20185218.png)
+
+![Screenshot](Screenshots/Screenshot%202026-03-25%20185310.png)
+
 **Contact & Support**
 
 **Developed by:** Aryan Bhardwaj for The Taoof Tea**Code Repository:** GitHub (private, access by permission)**Documentation:** This file + printed code in office files
